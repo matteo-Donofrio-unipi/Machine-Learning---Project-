@@ -4,5 +4,5 @@ Given two tasks (classification and regression), for each of them a comparison i
 
 Commands:
 -In order to check out the Regression Task, run the "regression_ML-CUP" notebook 
--In order to check out the Monks, run the three notebooks (Monk1, Monk2, Monk3)
+-In order to check out the Classification Task, run the three notebooks (Monk1, Monk2, Monk3)
 
