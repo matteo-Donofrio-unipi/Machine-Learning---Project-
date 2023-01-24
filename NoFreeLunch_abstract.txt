@@ -1,4 +1,0 @@
-After implementing several techniques and architectures seen during the course, we se-
-lected deep NN (4 hidden layers, 7 units each) with minibatch for the cup. For each hy-
-permodel, we performed an hold-out for model selection and a k-fold for model assessment
-and, then, another hold-out to select the best model among these with final retraining.
